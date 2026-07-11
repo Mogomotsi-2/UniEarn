@@ -1,0 +1,6 @@
+{
+  "name": "UniEarn",
+  "description": "University student campus rewards and check-in tracker with interactive live map tracking, multi-shop promenade, and South African language settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

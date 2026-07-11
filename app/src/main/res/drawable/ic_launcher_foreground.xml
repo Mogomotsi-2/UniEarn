@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background shadow or glow -->
+    <path
+        android:fillColor="#33FBBF24"
+        android:pathData="M54,22 L86,38 L54,54 L22,38 Z" />
+
+    <!-- Graduation Cap Diamond / Top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,25 L88,41 L54,57 L20,41 Z" />
+
+    <!-- Graduation Cap Under-base -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M32,48 L32,60 C32,70 76,70 76,60 L76,48 C68,52 60,54 54,54 C48,54 40,52 32,48 Z" />
+
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,43 L78,65 C78,68 81,68 81,65 L81,43 Z" />
+
+    <!-- Little tassel button on top -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,39 A2,2 0 1,1 54,43 A2,2 0 1,1 54,39" />
+
+    <!-- Rewards Star in center foreground -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,62 L57,69 L65,70 L59,75 L61,83 L54,79 L47,83 L49,75 L43,70 L51,69 Z" />
+</vector>
